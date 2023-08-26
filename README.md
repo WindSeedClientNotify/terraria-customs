@@ -1,2 +1,2 @@
 # terraria-customs
-Custom terraria versions i edited from the vanilla.
+Custom terraria versions I edited from the vanilla.
